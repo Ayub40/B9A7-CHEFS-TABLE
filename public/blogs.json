@@ -1,0 +1,98 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Teriyaki Chicken Stir Fry",
+        "recipe_image": "https://i.ibb.co/6XbMKJQ/Rectangle-20170-2.png",
+        "short_description": "A delicious and easy-to-make stir fry with tender chicken and vegetables, glazed in a sweet and savory teriyaki sauce.",
+        "ingredients": [
+            "550 g chicken breast, thinly sliced",
+            "120 ml soy sauce",
+            "200 g basil leaves",
+            "400 g mushrooms, sliced",
+            "2 tbsp vegetable oil",
+            "3 cloves garlic, minced"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Caprese Salad",
+        "recipe_image": "https://i.ibb.co/9sbH3nH/Rectangle-20170-3.png",
+        "short_description": "A refreshing and light salad featuring ripe tomatoes, fresh mozzarella, and fragrant basil, drizzled with balsamic glaze.",
+        "ingredients": [
+            "4 large ripe tomatoes, sliced",
+            "250 g fresh mozzarella cheese, sliced",
+            "1 bunch fresh basil leaves",
+            "3 tbsp extra virgin olive oil",
+            "2 tbsp balsamic vinegar",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "15 min",
+        "calories": "180 calories"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Pad Thai",
+        "recipe_image": "https://i.ibb.co/9sbH3nH/Rectangle-20170-3.png",
+        "short_description": "A classic Thai dish made with stir-fried rice noodles, tofu, and assorted vegetables, tossed in a tangy and spicy sauce.",
+        "ingredients": [
+            "200 g rice noodles",
+            "200 g tofu, cubed",
+            "1 red bell pepper, julienned",
+            "1 yellow bell pepper, julienned",
+            "1 carrot, julienned",
+            "1 cup bean sprouts"
+        ],
+        "preparing_time": "25 min",
+        "calories": "280 calories"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Mediterranean Quinoa Salad",
+        "recipe_image": "https://i.ibb.co/9sbH3nH/Rectangle-20170-3.png",
+        "short_description": "A healthy and flavorful salad packed with quinoa, cherry tomatoes, cucumbers, olives, and feta cheese, dressed in a lemon herb vinaigrette.",
+        "ingredients": [
+            "1 cup quinoa, rinsed",
+            "2 cups water or vegetable broth",
+            "1 cup cherry tomatoes, halved",
+            "1 cucumber, diced",
+            "1/2 cup Kalamata olives, pitted and sliced",
+            "1/2 cup crumbled feta cheese"
+        ],
+        "preparing_time": "20 min",
+        "calories": "250 calories"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "BBQ Pulled Jackfruit Sandwiches",
+        "recipe_image": "https://i.ibb.co/9sbH3nH/Rectangle-20170-3.png",
+        "short_description": "A vegan twist on a classic BBQ sandwich, featuring shredded jackfruit cooked in tangy BBQ sauce and served on buns with coleslaw.",
+        "ingredients": [
+            "2 cans young green jackfruit in brine, drained and rinsed",
+            "1 cup BBQ sauce",
+            "1/2 cup vegetable broth",
+            "1 tbsp olive oil",
+            "1 onion, diced",
+            "3 cloves garlic, minced"
+        ],
+        "preparing_time": "40 min",
+        "calories": "220 calories"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Avocado Mousse",
+        "recipe_image": "https://i.ibb.co/9sbH3nH/Rectangle-20170-3.png",
+        "short_description": "A creamy and indulgent dessert made with ripe avocados, cocoa powder, and maple syrup, blended until smooth and chilled.",
+        "ingredients": [
+            "2 ripe avocados, peeled and pitted",
+            "1/2 cup cocoa powder",
+            "1/2 cup maple syrup",
+            "1/4 cup almond milk",
+            "1 tsp vanilla extract",
+            "Pinch of salt"
+        ],
+        "preparing_time": "10 min",
+        "calories": "200 calories"
+    }
+]
