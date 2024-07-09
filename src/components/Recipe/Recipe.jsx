@@ -1,6 +1,10 @@
 import './Recipe.css'
+import PropTypes from 'prop-types';
+// import { ToastContainer, toast } from 'react-toastify';
 
-const Recipe = ({ recipe }) => {
+
+
+const Recipe = ({ recipe, handleWantTOCook,  }) => {
     const { recipe_image, recipe_name, short_description, ingredients, preparing_time, calories } = recipe;
 
     return (
@@ -21,9 +25,15 @@ const Recipe = ({ recipe }) => {
                 <p>{preparing_time}</p>
                 <p>{calories}</p>
             </div>
-            <button className="btn btn-accent want p-2 rounded-full  ">Want to Cook</button>
+            <button onClick={() => handleWantTOCook(recipe)} className="want p-2 rounded-full">Want to Cook</button>
+            
         </div>
     );
 };
+
+Recipe.propTypes = {
+    recipe: PropTypes.object.isRequired,
+    handleWantTOCook: PropTypes.func
+}
 
 export default Recipe;

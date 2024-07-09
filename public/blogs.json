@@ -1,7 +1,7 @@
 [
     {
         "recipe_id": 1,
-        "recipe_name": "Teriyaki Chicken Stir Fry",
+        "recipe_name": "Chicken Stir Fry",
         "recipe_image": "https://i.ibb.co/6XbMKJQ/Rectangle-20170-2.png",
         "short_description": "A delicious and easy-to-make stir fry with tender chicken and vegetables, glazed in a sweet and savory teriyaki sauce.",
         "ingredients": [
@@ -17,7 +17,7 @@
     },
     {
         "recipe_id": 2,
-        "recipe_name": "Caprese Salad",
+        "recipe_name": "Caprese  Salad",
         "recipe_image": "https://i.ibb.co/9sbH3nH/Rectangle-20170-3.png",
         "short_description": "A refreshing and light salad featuring ripe tomatoes, fresh mozzarella, and fragrant basil, drizzled with balsamic glaze.",
         "ingredients": [
@@ -33,7 +33,7 @@
     },
     {
         "recipe_id": 3,
-        "recipe_name": "Vegetable Pad Thai",
+        "recipe_name": "Vegetable  Thai",
         "recipe_image": "https://i.ibb.co/9sbH3nH/Rectangle-20170-3.png",
         "short_description": "A classic Thai dish made with stir-fried rice noodles, tofu, and assorted vegetables, tossed in a tangy and spicy sauce.",
         "ingredients": [
@@ -49,7 +49,7 @@
     },
     {
         "recipe_id": 4,
-        "recipe_name": "Mediterranean Quinoa Salad",
+        "recipe_name": "Mediterean  Salad",
         "recipe_image": "https://i.ibb.co/9sbH3nH/Rectangle-20170-3.png",
         "short_description": "A healthy and flavorful salad packed with quinoa, cherry tomatoes, cucumbers, olives, and feta cheese, dressed in a lemon herb vinaigrette.",
         "ingredients": [
@@ -65,7 +65,7 @@
     },
     {
         "recipe_id": 5,
-        "recipe_name": "BBQ Pulled Jackfruit Sandwiches",
+        "recipe_name": "BBQ Sandwiches",
         "recipe_image": "https://i.ibb.co/9sbH3nH/Rectangle-20170-3.png",
         "short_description": "A vegan twist on a classic BBQ sandwich, featuring shredded jackfruit cooked in tangy BBQ sauce and served on buns with coleslaw.",
         "ingredients": [
@@ -81,7 +81,7 @@
     },
     {
         "recipe_id": 6,
-        "recipe_name": "Chocolate Avocado Mousse",
+        "recipe_name": "Chocolate Avocado",
         "recipe_image": "https://i.ibb.co/9sbH3nH/Rectangle-20170-3.png",
         "short_description": "A creamy and indulgent dessert made with ripe avocados, cocoa powder, and maple syrup, blended until smooth and chilled.",
         "ingredients": [
